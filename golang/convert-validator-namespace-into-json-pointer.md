@@ -1,7 +1,7 @@
 # Convert Validator Namespace into JSON-Pointer
 
 I was trying to create some structured error following the
-[adrs#6860374633](https://github.com/straw-hat-team/adr/tree/master/adrs/6860374633.
+[adrs#6860374633](https://github.com/straw-hat-team/adr/tree/master/adrs/6860374633).
 
 And by default [Gin](https://github.com/gin-gonic/gin) validator configuration
 doesn't use the struct JSON tag for the namespace and I need to use the JSON
