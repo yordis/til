@@ -38,7 +38,7 @@ func (e MyError) Is(err error) bool {
 }
 ```
 
-The trick is to cast it to an interface fists, and then ask for the type.
+The trick is to cast it to an interface first, and then ask for the type.
 
 ```go
 package main
