@@ -10,6 +10,7 @@ Inspired by [Ben Smith's TIL](https://github.com/slashdotdash/til).
 ## Categories
 
 - [GoLang](./golang/README.md)
+- [CSS](./css/README.md)
 
 ## License
 
