@@ -11,6 +11,7 @@ Inspired by [Ben Smith's TIL](https://github.com/slashdotdash/til).
 
 - [GoLang](./golang/README.md)
 - [CSS](./css/README.md)
+- [Git](./git/README.md)
 
 ## License
 
